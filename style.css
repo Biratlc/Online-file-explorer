@@ -1,0 +1,13 @@
+nav{
+    position: fixed;
+    top:0;
+    width:100%;
+}
+.breadcrumb{
+    background-color: #4F5060;
+    border-radius:0;
+}
+
+ a,a:hover{
+     color:#AEBD38;
+ }

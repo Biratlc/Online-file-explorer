@@ -18,10 +18,9 @@
     "url": "https://github.com/Biratlc/Online-file-explorer/issues"
   },
   "homepage": "https://github.com/Biratlc/Online-file-explorer#readme",
+
   "dependencies": {
-    "express": "^4.16.4"
-  },
-  "devDependencies": {
+    "express": "^4.16.4",
     "@babel/cli": "^7.4.3",
     "@babel/core": "^7.4.3",
     "@babel/node": "^7.2.2",
